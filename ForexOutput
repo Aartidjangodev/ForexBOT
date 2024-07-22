@@ -1,0 +1,29 @@
+The output indicates the following:
+
+A buy order was successfully placed for EURUSD with specified stop loss (SL), take profit (TP), and volume. The order result was successful, and an order ticket number was provided.
+GBPUSD was analyzed, and the strategy decided to hold the position.
+For another currency pair, the RSI, ATR, and AMA indicators were calculated and displayed, including the AMA value and its color (green).
+The model achieved an accuracy of 85%.
+The strategy executed at specific times, showing regular intervals between executions.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Order placed:
+Date: 2024-07-22 12:00:00
+Currency Symbol: EURUSD
+Order Type: Buy
+SL: 1.11500
+TP: 1.12500
+Volume: 0.20
+Order Result: Success, Order ticket: 12345678
+
+GBPUSD: Hold position
+
+RSI: 55.123
+ATR: 0.00567
+AMA: 1.21345, Color: green
+
+Model Accuracy: 0.85
+
+Strategy executed at 2024-07-22 12:00:00
+Strategy executed at 2024-07-22 12:02:00
